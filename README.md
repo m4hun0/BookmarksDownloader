@@ -92,23 +92,19 @@ Utilize a extensão do navegador:
 ## 🛠 Requisitos
 
 - Windows
-- Python 3.x
+- Python 3
 - gallery-dl  
   👉 https://github.com/mikf/gallery-dl
 
 ---
 
-## ⚠️ Aviso legal
+## ⚠️
 
 Este projeto é destinado **exclusivamente para backup pessoal**.
 
 Você é totalmente responsável pelo uso da ferramenta e pelo cumprimento dos termos de uso da plataforma X (Twitter).
 
 ---
-
-## ⭐ Dica
-
-Execute o script periodicamente para manter seus bookmarks sempre atualizados.
 
 ---
 
