@@ -105,7 +105,3 @@ Este projeto é destinado **exclusivamente para backup pessoal**.
 Você é totalmente responsável pelo uso da ferramenta e pelo cumprimento dos termos de uso da plataforma X (Twitter).
 
 ---
-
----
-
-✨ **Backup concluído. Seus bookmarks agora estão seguros localmente!**
