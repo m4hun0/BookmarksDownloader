@@ -109,11 +109,3 @@ Utilize a extensão do navegador:
   👉 https://github.com/mikf/gallery-dl
 
 ---
-
-## ⚠️
-
-Este projeto é destinado **exclusivamente para backup pessoal**.
-
-Você é totalmente responsável pelo uso da ferramenta e pelo cumprimento dos termos de uso da plataforma X (Twitter).
-
----
