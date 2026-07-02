@@ -106,6 +106,6 @@ Utilize a extensão do navegador:
 - Windows
 - Python 3
 - gallery-dl  
-  👉 https://github.com/mikf/gallery-dl
+  ↳ https://github.com/mikf/gallery-dl
 
 ---
