@@ -1,8 +1,7 @@
+# <p align="center">BookmarkX Downloader</p>
 <p align="center">
   <img src="logo.png" alt="TidyMind Logo" width="180px">
 </p>
-
-# <p align="center">BookmarkX Downloader</p>
 
 <p align="center">
   Automatize o download dos seus bookmarks (salvos) do X (antigo Twitter) utilizando gallery-dl e um simples arquivo .bat no Windows.
